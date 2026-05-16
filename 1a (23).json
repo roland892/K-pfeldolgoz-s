@@ -1,0 +1,46 @@
+{
+  "version": "6.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "200ft",
+      "points": [
+        [
+          604.1666666666667,
+          136.66666666666669
+        ],
+        [
+          864.1666666666667,
+          400.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "100ft",
+      "points": [
+        [
+          564.1666666666667,
+          583.3333333333334
+        ],
+        [
+          782.5,
+          798.3333333333334
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "1a (23).jpg",
+  "imageData": null,
+  "imageHeight": 960,
+  "imageWidth": 1280
+}

@@ -1,0 +1,28 @@
+{
+  "version": "6.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "50ft",
+      "points": [
+        [
+          372.2222222222222,
+          384.4444444444444
+        ],
+        [
+          645.5555555555554,
+          660.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "1a (4).jpg",
+  "imageData": null,
+  "imageHeight": 1280,
+  "imageWidth": 960
+}

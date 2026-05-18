@@ -1,0 +1,5 @@
+train: train/images
+val: val/images
+
+nc: 6
+names: ['5ft', '10ft', '20ft', '50ft', '100ft', '200ft']

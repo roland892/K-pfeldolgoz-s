@@ -1,0 +1,442 @@
+{
+  "version": "6.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "50ft",
+      "points": [
+        [
+          451.0,
+          39.0
+        ],
+        [
+          586.0,
+          169.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "10ft",
+      "points": [
+        [
+          177.0,
+          115.0
+        ],
+        [
+          293.0,
+          233.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "200ft",
+      "points": [
+        [
+          301.0,
+          142.0
+        ],
+        [
+          437.0,
+          279.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "200ft",
+      "points": [
+        [
+          420.0,
+          264.0
+        ],
+        [
+          556.0,
+          401.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "100ft",
+      "points": [
+        [
+          702.0,
+          256.0
+        ],
+        [
+          817.0,
+          379.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "50ft",
+      "points": [
+        [
+          509.0,
+          387.0
+        ],
+        [
+          640.0,
+          520.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "10ft",
+      "points": [
+        [
+          736.0,
+          433.0
+        ],
+        [
+          855.0,
+          552.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "100ft",
+      "points": [
+        [
+          601.0,
+          543.0
+        ],
+        [
+          716.0,
+          659.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "5ft",
+      "points": [
+        [
+          363.0,
+          428.0
+        ],
+        [
+          465.0,
+          531.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "5ft",
+      "points": [
+        [
+          48.0,
+          387.0
+        ],
+        [
+          150.0,
+          489.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "5ft",
+      "points": [
+        [
+          620.0,
+          1075.0
+        ],
+        [
+          719.0,
+          1173.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "50ft",
+      "points": [
+        [
+          448.0,
+          1097.0
+        ],
+        [
+          586.0,
+          1225.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "10ft",
+      "points": [
+        [
+          317.0,
+          1011.0
+        ],
+        [
+          431.0,
+          1127.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "100ft",
+      "points": [
+        [
+          541.0,
+          916.0
+        ],
+        [
+          655.0,
+          1032.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "100ft",
+      "points": [
+        [
+          114.0,
+          943.0
+        ],
+        [
+          224.0,
+          1052.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "200ft",
+      "points": [
+        [
+          363.0,
+          843.0
+        ],
+        [
+          492.0,
+          976.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "50ft",
+      "points": [
+        [
+          491.0,
+          720.0
+        ],
+        [
+          618.0,
+          850.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "20ft",
+      "points": [
+        [
+          746.2222222222222,
+          863.0
+        ],
+        [
+          864.2222222222222,
+          987.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "20ft",
+      "points": [
+        [
+          331.0,
+          670.0
+        ],
+        [
+          451.0,
+          796.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "10ft",
+      "points": [
+        [
+          196.0,
+          778.0
+        ],
+        [
+          315.0,
+          890.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "200ft",
+      "points": [
+        [
+          43.0,
+          701.0
+        ],
+        [
+          173.0,
+          835.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "20ft",
+      "points": [
+        [
+          191.0,
+          516.0
+        ],
+        [
+          318.0,
+          641.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "5ft",
+      "points": [
+        [
+          46.0,
+          550.0
+        ],
+        [
+          147.0,
+          651.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "20ft",
+      "points": [
+        [
+          438.0,
+          519.0
+        ],
+        [
+          558.0,
+          641.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "5.jpg",
+  "imageData": null,
+  "imageHeight": 1280,
+  "imageWidth": 960
+}
